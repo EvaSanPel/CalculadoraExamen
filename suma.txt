@@ -9,3 +9,7 @@ public class calculadora {
         num1=a;
         num2=b;
     }
+  public int sumar(){
+        int sum=num1+num2;
+        return sum;
+    }
