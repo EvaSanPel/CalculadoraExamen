@@ -1,0 +1,12 @@
+package modelo;
+
+public class calculadora {
+    //variables que guardan los números sobre los que trabajamos
+    int num1,num2;
+    
+    //El constructor se ejecuta nada mas crear el objeto. Se parecen a los métodos, su nombre es el de la clase
+    //Constructor que sirve para inicializar los atributos
+    public calculadora(int a, int b){//se llaman siempre igual que la clase
+        num1=a;
+        num2=b;
+    }
