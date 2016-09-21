@@ -1,0 +1,11 @@
+package modelo;
+
+public class calculadora {
+    
+    int num1,num2;
+    
+     
+    public calculadora(int a, int b){
+        num1=a;
+        num2=b;
+    }
